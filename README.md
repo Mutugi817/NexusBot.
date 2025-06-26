@@ -1,4 +1,4 @@
-# Synapse
+# NexusBot.
 
 A poweful multi device whatsapp bot built using node.js.
 
